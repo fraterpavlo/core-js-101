@@ -29,6 +29,9 @@
  */
 function getFizzBuzz(/* num */) {
   throw new Error('Not implemented');
+  // if (num % 3 === 0) {
+  //   return
+  // }
 }
 
 
